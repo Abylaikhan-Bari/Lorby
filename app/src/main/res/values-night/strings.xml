@@ -1,8 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Lorby</string>
     <string name="splash_image">Splash image</string>
     <string name="login_image">Login image</string>
-    <string name="welcome_text">Welcome back!</string>
+    <string name="welcome_text">Welcome</string>
     <string name="username_hint">Username</string>
     <string name="password_hint">Password</string>
     <string name="login_button">Login</string>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageViewSplash" type="id">imageViewSplash</item>
+    <item name="textViewSplash" type="id">textViewSplash</item>
+    <item name="textInputLayoutUsername" type="id">textInputLayoutUsername</item>
+    <item name="textInputLayoutPassword" type="id">textInputLayoutPassword</item>
+</resources>
