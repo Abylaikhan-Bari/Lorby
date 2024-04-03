@@ -9,4 +9,12 @@
     <string name="register_prompt">Don\'t have an account?</string>
     <string name="splash_subtitle">Your personal teacher</string>
     <string name="splash_image_description">splash_image_description</string>
+    <string name="register_title">Register</string>
+    <string name="email_hint">Email</string>
+    <string name="register_button">Register</string>
+    <string name="create_account">Create account</string>
+    <string name="email_confirmation">Email confirmation</string>
+    <string name="enter_confirmation_code">Confirmation code</string>
+    <string name="timer_text">Timer</string>
+    <string name="confirm">Confirm</string>
 </resources>

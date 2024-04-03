@@ -6,7 +6,16 @@
     <string name="username_hint">Username</string>
     <string name="password_hint">Password</string>
     <string name="login_button">Login</string>
-    <string name="register_prompt">Don\'t have an account?</string>
+    <string name="register_prompt">I don\'t have an account</string>
     <string name="splash_subtitle">Your personal teacher</string>
     <string name="splash_image_description">splash_image_description</string>
+    <string name="register_title">Register</string>
+    <string name="email_hint">Email</string>
+    <string name="confirm_password_hint">Confirm password</string>
+    <string name="register_button">Register</string>
+    <string name="create_account">Create account</string>
+    <string name="email_confirmation">Email confirmation</string>
+    <string name="enter_confirmation_code">Confirmation code</string>
+    <string name="timer_text">Timer</string>
+    <string name="confirm">Confirm</string>
 </resources>
