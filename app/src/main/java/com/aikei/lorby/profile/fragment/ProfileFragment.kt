@@ -1,7 +1,7 @@
-package com.aikei.lorby.profile.fragment;
+package com.aikei.lorby.profile.fragment
 
-import androidx.fragment.app.Fragment;
+import androidx.fragment.app.Fragment
 
-public class ProfileFragment extends Fragment {
-    // ...
+class ProfileFragment : Fragment() {
+    // Implement fragment functionality here
 }
