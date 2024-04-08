@@ -38,6 +38,8 @@ android {
 }
 
 dependencies {
+    implementation("androidx.room:room-common:2.6.1")
+    implementation("androidx.room:room-ktx:2.6.1")
     val nav_version = "2.7.7"
 
     //Dagger-Hilt
@@ -73,6 +75,8 @@ dependencies {
     implementation("com.squareup.retrofit2:retrofit:2.9.0")
     // Gson converter for Retrofit
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
+    implementation ("com.squareup.retrofit2:adapter-rxjava3:2.9.0") // If using RxJava
+    implementation ("com.jakewharton.retrofit:retrofit2-kotlin-coroutines-adapter:0.9.2") // For Coroutines support
     // If you use Moshi or another serialization library, add its converter accordingly
 
     // Picasso for image loading, or use Glide if preferred

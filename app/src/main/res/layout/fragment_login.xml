@@ -49,7 +49,6 @@
         android:layout_below="@id/textInputLayoutUsername"
         android:layout_marginTop="16dp"
         android:hint="@string/password_hint"
-        android:passwordToggleEnabled="true"
     app:passwordToggleDrawable="@drawable/ic_visibility_toggle"
     app:endIconMode="password_toggle">
 
