@@ -38,6 +38,7 @@ android {
 }
 
 dependencies {
+    val nav_version = "2.7.7"
 
     //Dagger-Hilt
     implementation("com.google.dagger:hilt-android:2.44")
@@ -51,6 +52,11 @@ dependencies {
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
+
+    // Navigation Component
+    implementation("androidx.navigation:navigation-fragment-ktx:$nav_version")
+    implementation("androidx.navigation:navigation-ui-ktx:$nav_version")
+    implementation("androidx.navigation:navigation-dynamic-features-fragment:$nav_version")
 
     // Kotlin Standard Library
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
