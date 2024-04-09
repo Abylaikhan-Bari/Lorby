@@ -8,7 +8,7 @@ import androidx.fragment.app.Fragment
 import com.aikei.lorby.R
 import dagger.hilt.android.AndroidEntryPoint
 
-@AndroidEntryPoint
+
 class LoginFragment : Fragment() {
 
     override fun onCreateView(

@@ -8,7 +8,7 @@ import androidx.fragment.app.Fragment
 import com.aikei.lorby.R
 import dagger.hilt.android.AndroidEntryPoint
 
-@AndroidEntryPoint
+
 class RegisterFragment : Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
